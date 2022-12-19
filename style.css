@@ -1,0 +1,28 @@
+.img-product {
+    width: 500px;
+    height: auto;
+    border: solid #000;
+    margin-top: 100px;
+}
+
+.product-title {
+    margin-top: 100px;
+}
+
+.pricing-area {
+    margin-top: 30px;
+}
+
+#size {
+    margin-top: 30px;
+    width: 300px;
+    height: 50px;
+}
+
+.info-des {
+    margin-top: 30px;
+}
+
+button {
+    margin-top: 30px;
+}
